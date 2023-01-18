@@ -99,6 +99,12 @@ $tf/
 # Guidance Automation Toolkit
 *.gpState
 
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+Properties/
+
 # ReSharper is a .NET coding add-in
 _ReSharper*/
 *.[Rr]e[Ss]harper
